@@ -24,6 +24,12 @@ const focusAreas = [
   },
 ]
 
+const outcomes = [
+  'Turned fragmented operational workflows into shared internal products used across football, executive, and technical teams.',
+  'Built trusted data foundations that support reporting, scouting, performance analysis, and leadership decision-making at scale.',
+  'Established delivery practices around cloud operations, documentation, monitoring, and release reliability for production systems.',
+]
+
 const experience = [
   {
     company: 'Blue Crow Sports Group',
@@ -62,31 +68,37 @@ const projects = [
     title: 'Internal SaaS Intelligence Platform',
     category: 'Product engineering',
     text: 'Architected and built a full-stack internal platform that centralizes operational data, analytics, stakeholder workflows, and reporting across a multi-team organization.',
+    impact: 'Created a shared operating layer for teams that previously depended on fragmented tools and manual coordination.',
   },
   {
     title: 'Unified Data Infrastructure',
     category: 'Data platform',
     text: 'Integrated APIs, manual uploads, unstructured datasets, web scraping, event data, and historical records into a single analytics environment for production decision-making.',
+    impact: 'Unified 10+ data sources into production systems that could support higher-confidence analysis and repeatable reporting.',
   },
   {
     title: 'Executive Reporting System',
     category: 'Operational analytics',
     text: 'Delivered 50+ dashboards and reporting tools that help leadership and technical departments track performance, identify opportunities, and act on trusted data.',
+    impact: 'Gave stakeholders consistent visibility into operational questions that were previously slow or inconsistent to answer.',
   },
   {
     title: 'Cloud & Delivery Operations',
     category: 'Engineering operations',
     text: 'Established cloud cost ownership, CI/CD workflows, monitoring practices, multi-environment deployments, and documentation standards for reliable delivery.',
+    impact: 'Improved the operating model around production delivery, platform reliability, and engineering accountability.',
   },
   {
     title: 'Automation & Data Quality',
     category: 'Process automation',
     text: 'Built validation frameworks, alerting workflows, and automated data pipelines that reduced manual checks and improved confidence in analytical products.',
+    impact: 'Reduced operational risk by making data quality issues easier to catch, explain, and resolve.',
   },
   {
     title: 'AI-Assisted Analysis R&D',
     category: 'Applied AI',
     text: 'Led exploratory work using computer vision and AI-driven analysis to extract insights from high-volume event streams and video-oriented workflows.',
+    impact: 'Tested practical ways to move AI-assisted analysis from experiments toward useful workflow augmentation.',
   },
 ]
 
@@ -142,7 +154,7 @@ function App() {
       <section className="hero" id="top">
         <div className="hero-content">
           <p className="eyebrow">Product Platforms | AI Workflows | Operational Data</p>
-          <h1>Building products and data systems that make complex operations easier to run.</h1>
+          <h2>Building products and data systems that make complex operations easier to run.</h2>
           <p className="hero-copy">
             I am Humza Ahmed, an engineering and data product leader focused on internal SaaS
             platforms, analytics infrastructure, AI-assisted workflows, and high-volume data
@@ -186,6 +198,20 @@ function App() {
         ))}
       </section>
 
+      <section className="section outcomes" aria-labelledby="outcomes-heading">
+        <div className="section-heading">
+          <p className="eyebrow">Selected outcomes</p>
+          <h2 id="outcomes-heading">Proof that the systems moved real operational work forward.</h2>
+        </div>
+        <div className="outcome-list">
+          {outcomes.map((outcome) => (
+            <article className="outcome-card" key={outcome}>
+              <p>{outcome}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
       <section className="section" id="work">
         <div className="section-heading">
           <p className="eyebrow">What I do</p>
@@ -212,6 +238,7 @@ function App() {
               <span>{project.category}</span>
               <h3>{project.title}</h3>
               <p>{project.text}</p>
+              <p className="project-impact">{project.impact}</p>
             </article>
           ))}
         </div>
@@ -242,8 +269,13 @@ function App() {
 
       <section className="contact" id="contact">
         <p className="eyebrow">Contact</p>
+        <h2>Get in touch.</h2>
+        <p className="contact-copy">
+          Open to conversations around engineering leadership, internal platforms, data systems,
+          and practical AI workflows.
+        </p>
         <div className="contact-links" aria-label="Contact options">
-          <a className="contact-link" href="mailto:humza1910@gmail.com">
+          <a className="contact-link" href="mailto:humza1910@gmail.com?subject=Website%20inquiry">
             <svg className="contact-icon" viewBox="0 0 24 24" aria-hidden="true">
               <path d="M4 6.5h16v11H4z" />
               <path d="m4 7 8 6 8-6" />
@@ -282,6 +314,10 @@ function App() {
           </a>
         </div>
       </section>
+
+      <footer className="site-footer">
+        <p>&copy; {new Date().getFullYear()} Humza Ahmed. All rights reserved.</p>
+      </footer>
     </main>
   )
 }
