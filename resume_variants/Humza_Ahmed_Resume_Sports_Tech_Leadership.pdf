@@ -1,0 +1,136 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 7526 >>
+stream
+0.067 0.094 0.153 rg BT /F2 23.00 Tf 1 0 0 1 245.28 731.00 Tm (Humza Ahmed) Tj ET
+0.216 0.255 0.318 rg BT /F1 9.20 Tf 1 0 0 1 185.02 714.80 Tm (\(832\) 986-3945 | humza1910@gmail.com | GitHub: hahmed0111) Tj ET
+0.216 0.255 0.318 rg BT /F2 9.60 Tf 1 0 0 1 42.00 693.20 Tm (Director of Engineering | Sports Technology, Football Intelligence & Analytics Platforms) Tj ET
+0.059 0.231 0.341 rg BT /F2 11.20 Tf 1 0 0 1 42.00 669.00 Tm (PROFESSIONAL SUMMARY) Tj ET
+0.725 0.780 0.827 RG 0.70 w 42.00 665.00 m 570.00 665.00 l S
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 42.00 649.10 Tm (Director of Engineering with deep experience building football intelligence platforms, sports data infrastructure, and internal) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 42.00 637.90 Tm (SaaS products for multi-club operations. Promoted after architecting centralized systems that support 23 teams across sports) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 42.00 626.70 Tm (science, scouting, recruitment, nutrition, player operations, and executive leadership. Combines hands-on backend/data engineering) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 42.00 615.50 Tm (depth with product judgment, cloud ownership, and cross-functional delivery in elite football environments.) Tj ET
+0.059 0.231 0.341 rg BT /F2 11.20 Tf 1 0 0 1 42.00 591.50 Tm (CORE SKILLS) Tj ET
+0.725 0.780 0.827 RG 0.70 w 42.00 587.50 m 570.00 587.50 l S
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 571.60 Tm (- Leadership: Engineering strategy, technical roadmaps, stakeholder management, cross-functional delivery, cloud cost ownership,) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 560.40 Tm (  documentation, release governance) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 547.70 Tm (- Backend & Data: Python, Django, Flask, PostgreSQL, ETL/ELT pipelines, data modeling, API integrations, web scraping, analytics) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 536.50 Tm (  platforms) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 523.80 Tm (- Infrastructure: AWS, GCP, Azure, Airflow, CI/CD, Jenkins, Heroku, monitoring, multi-environment deployments,) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 512.60 Tm (  Linux/Mac/Windows) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 499.90 Tm (- Product & Frontend: Internal SaaS platforms, dashboards/reporting, JavaScript, HTML/CSS, sports analytics tooling, QA) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 488.70 Tm (  automation) Tj ET
+0.059 0.231 0.341 rg BT /F2 11.20 Tf 1 0 0 1 42.00 464.70 Tm (PROFESSIONAL EXPERIENCE) Tj ET
+0.725 0.780 0.827 RG 0.70 w 42.00 460.70 m 570.00 460.70 l S
+0.067 0.094 0.153 rg BT /F2 10.50 Tf 1 0 0 1 42.00 438.20 Tm (Blue Crow Sports Group, Houston, TX) Tj ET
+0.216 0.255 0.318 rg BT /F2 9.60 Tf 1 0 0 1 42.00 425.60 Tm (Director of Engineering | January 2026 - Present) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 412.70 Tm (- Promoted to Director of Engineering after architecting the organization's centralized data platform and internal football) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 401.50 Tm (  intelligence system across a 23-team multi-club environment.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 388.80 Tm (- Own engineering strategy, technical roadmap, architecture decisions, and platform delivery across football analytics, internal) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 377.60 Tm (  SaaS tooling, data infrastructure, and operational systems.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 364.90 Tm (- Partner with football leadership and department heads to translate scouting, sports science, recruitment, nutrition, and) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 353.70 Tm (  player operations needs into scalable analytics products.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 341.00 Tm (- Lead delivery of 50+ dashboards and reporting tools used by technical staff, executives, and football operations) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 329.80 Tm (  stakeholders for decision-making across the organization.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 317.10 Tm (- Own cloud infrastructure strategy and cost management across production systems, balancing reliability, scalability, and) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 305.90 Tm (  spend for a growing multi-club operation.) Tj ET
+0.216 0.255 0.318 rg BT /F2 9.60 Tf 1 0 0 1 42.00 292.50 Tm (Data Engineer / Lead Developer | January 2023 - December 2025) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 279.60 Tm (- Architected and developed a full-stack football intelligence platform used by staff across 23 teams to analyze sports) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 268.40 Tm (  science, scouting, recruitment, training performance, and operational data.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 255.70 Tm (- Built centralized data infrastructure aggregating 10+ heterogeneous sources, including APIs, unstructured datasets, manual) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 244.50 Tm (  uploads, and web scraping, into a unified analytics environment.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 231.80 Tm (- Developed pipelines covering 200,000+ players, 100,000+ coaches, ~30 years of competition history, and ~300,000 matches) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 220.60 Tm (  annually.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 207.90 Tm (- Built systems handling 1,500+ event data points per match and ~1M positional tracking data points per game to support) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 196.70 Tm (  advanced performance analysis and research workflows.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 184.00 Tm (- Led exploratory AI-driven football analytics initiatives, including computer vision approaches for automated match event) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 172.80 Tm (  extraction and cognitive performance analysis.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 160.10 Tm (- Data and analytics infrastructure supported football operations contributing to three trophy-winning seasons.) Tj ET
+0.067 0.094 0.153 rg BT /F2 10.50 Tf 1 0 0 1 42.00 140.80 Tm (Sports IQ Analytics, Montreal, QC) Tj ET
+0.216 0.255 0.318 rg BT /F2 9.60 Tf 1 0 0 1 42.00 128.20 Tm (Team Lead Data Scientist | October 2021 - January 2023) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 115.30 Tm (- Helped establish and scale data science engineering practices by overseeing code implementations, enforcing development) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 104.10 Tm (  standards, and improving system stability across analytics products.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 91.40 Tm (- Designed and implemented a unified collaboration repository, replacing fragmented repositories that duplicated critical) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 80.20 Tm (  functionality and improving maintainability.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 67.50 Tm (- Built a data validation framework with automated alerting bots, eliminating manual validation workflows and improving reliability) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 56.30 Tm (  across analytical models and pipelines.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 5153 >>
+stream
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 745.10 Tm (- Implemented Apache Airflow on Google Cloud Platform to orchestrate and parallelize data pipelines, reducing processing) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 733.90 Tm (  runtimes by ~70%.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 721.20 Tm (- Led creation of development and production environments, enabling controlled deployment, safer code integration, and stable) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 710.00 Tm (  rollout of analytics workflows.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 697.30 Tm (- Built profitability-loss analysis models that improved betting strategy decision-making and increased profit returns by ~10%;) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 686.10 Tm (  engineering contributions supported Sports IQ's acquisition by DraftKings.) Tj ET
+0.067 0.094 0.153 rg BT /F2 10.50 Tf 1 0 0 1 42.00 666.80 Tm (GardaWorld, Montreal, QC) Tj ET
+0.216 0.255 0.318 rg BT /F2 9.60 Tf 1 0 0 1 42.00 654.20 Tm (Python Backend Developer & QA Automation Lead | February 2021 - December 2023) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 641.30 Tm (- Led a 5-developer QA automation effort, increasing application test coverage from ~25% to ~70% within a year and) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 630.10 Tm (  ultimately supporting ~90% coverage goals.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 617.40 Tm (- Created Jira workflows and structured design meetings with QA and engineering stakeholders to align testing strategy for) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 606.20 Tm (  new entity coverage.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 593.50 Tm (- Developed REST and SOAP APIs for a Human Resources platform serving 50,000+ users across Canada, improving backend) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 582.30 Tm (  performance and resolving production issues.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 569.60 Tm (- Improved onboarding through Confluence documentation and recorded walkthroughs to accelerate knowledge transfer across) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 558.40 Tm (  the engineering team.) Tj ET
+0.067 0.094 0.153 rg BT /F2 10.50 Tf 1 0 0 1 42.00 539.10 Tm (British American Tobacco, Montreal, QC) Tj ET
+0.216 0.255 0.318 rg BT /F2 9.60 Tf 1 0 0 1 42.00 526.50 Tm (Data & Operations Analyst | October 2020 - February 2021) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 513.60 Tm (- Built technology-driven tools that reduced operational workload across 5+ Canadian departments and improved employee) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 502.40 Tm (  workflows.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 489.70 Tm (- Created data processes calculating total pricing for 300+ products at 0% error rate across monthly datasets exceeding) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 478.50 Tm (  2GB.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 465.80 Tm (- Automated a department-wide dataset workflow, reducing a two-day manual process to 40 minutes with ~99.2% accuracy.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 453.10 Tm (- Created an internal website for call agents to access client history, weekly prompts, and improved data capture workflows.) Tj ET
+0.067 0.094 0.153 rg BT /F2 10.50 Tf 1 0 0 1 42.00 433.80 Tm (SPORTLOGIQ, Montreal, QC) Tj ET
+0.216 0.255 0.318 rg BT /F2 9.60 Tf 1 0 0 1 42.00 421.20 Tm (Data Science Intern | June 2019 - February 2020) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 408.30 Tm (- Implemented a classification model inspired by k-means clustering and normal distribution methods to provide automated) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 397.10 Tm (  real-time media content across 20+ leagues.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 384.40 Tm (- Co-initiated internal analytics dashboards that helped productize 3+ team research projects.) Tj ET
+0.059 0.231 0.341 rg BT /F2 11.20 Tf 1 0 0 1 42.00 360.40 Tm (EDUCATION) Tj ET
+0.725 0.780 0.827 RG 0.70 w 42.00 356.40 m 570.00 356.40 l S
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 42.00 340.50 Tm (BA Mathematics & Statistics, Minor Computer Science, Concordia University, 2020) Tj ET
+0.059 0.231 0.341 rg BT /F2 11.20 Tf 1 0 0 1 42.00 316.50 Tm (VOLUNTEER EXPERIENCE) Tj ET
+0.725 0.780 0.827 RG 0.70 w 42.00 312.50 m 570.00 312.50 l S
+0.216 0.255 0.318 rg BT /F2 9.60 Tf 1 0 0 1 42.00 295.90 Tm (The Refugee Center, Montreal, QC | Programming Instructor | October 2021 - Present) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 283.00 Tm (- Teach foundational web development and Python to newcomers in Canada twice weekly.) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 270.30 Tm (- Develop and deliver structured Python lecture materials to support practical programming skill development and career) Tj ET
+0.067 0.094 0.153 rg BT /F1 8.90 Tf 1 0 0 1 54.00 259.10 Tm (  opportunity access.) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000402 00000 n 
+0000007979 00000 n 
+0000008115 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+13319
+%%EOF
