@@ -1,5 +1,5 @@
 # Humza Ahmed
-(832) 986-3945 | humza1910@gmail.com | GitHub: hahmed0111
+(832) 986-3945 | humza1910@gmail.com | GitHub: Hahmed94 | Website: h-ahmed.onrender.com
 
 **Director of Engineering | Platform Delivery, Technical Strategy & Cloud Ownership**
 
@@ -8,7 +8,7 @@ Director of Engineering with experience owning technical strategy, platform arch
 
 ## Core Skills
 - **Leadership:** Engineering strategy, technical roadmaps, stakeholder management, cross-functional delivery, cloud cost ownership, documentation, release governance
-- **Backend & Data:** Python, Django, Flask, PostgreSQL, ETL/ELT pipelines, data modeling, API integrations, web scraping, analytics platforms
+- **Backend & Data:** Python, Django, Flask, PostgreSQL, Snowflake, ETL/ELT pipelines, data modeling, API integrations, web scraping, analytics platforms
 - **Infrastructure:** AWS, GCP, Azure, Airflow, CI/CD, Jenkins, Heroku, monitoring, multi-environment deployments, Linux/Mac/Windows
 - **Product & Frontend:** Internal SaaS platforms, dashboards/reporting, JavaScript, HTML/CSS, sports analytics tooling, QA automation
 
@@ -20,10 +20,10 @@ Director of Engineering with experience owning technical strategy, platform arch
 - Own engineering roadmap, architecture standards, cloud cost management, and delivery priorities for production systems serving cross-functional business and football stakeholders.
 - Establish engineering practices across CI/CD, multi-environment deployments, documentation, monitoring, release reliability, and long-term platform maintainability.
 - Lead delivery of 50+ dashboards and reporting tools while aligning executive, operational, and technical stakeholders around product requirements and measurable outcomes.
-- Guide technical decision-making across backend services, data pipelines, integrations, analytics products, and internal SaaS platform development.
+- Guide technical decision-making across backend services, Snowflake data architecture, data pipelines, integrations, analytics products, and internal SaaS platform development.
 
 **Data Engineer / Lead Developer | January 2023 - December 2025**
-- Served as sole data engineer and lead developer, architecting a centralized data platform and internal SaaS analytics system supporting 23 teams and multiple departments.
+- Served as sole data engineer and lead developer, architecting a Snowflake-backed centralized data platform and internal SaaS analytics system supporting 23 teams and multiple departments.
 - Implemented version control, CI/CD pipelines, and multi-environment deployment workflows across development, QA, staging, and production to improve release reliability.
 - Designed and built infrastructure aggregating 10+ data sources into a unified analytics environment for sports science, scouting, recruitment, player operations, nutrition, and executive leadership.
 - Developed high-volume data systems handling match event data, positional tracking data, historical competition datasets, and manual operational workflows.

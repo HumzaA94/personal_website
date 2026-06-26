@@ -1,14 +1,14 @@
 # Humza Ahmed
-(832) 986-3945 | humza1910@gmail.com | GitHub: hahmed0111
+(832) 986-3945 | humza1910@gmail.com | GitHub: Hahmed94 | Website: h-ahmed.onrender.com
 
 **Director of Engineering | Data Platforms, Pipelines & Analytics Infrastructure**
 
 ## Professional Summary
-Director of Engineering specializing in data platforms, analytics infrastructure, and high-volume sports data systems. Experienced in designing centralized data environments, integrating heterogeneous sources, scaling pipelines for event and tracking data, and turning operational data into reliable internal products. Owns cloud cost management, architecture, and delivery for production data systems supporting 23 teams.
+Director of Engineering specializing in data platforms, analytics infrastructure, and high-volume sports data systems. Experienced in designing Snowflake-backed centralized data environments, integrating heterogeneous sources, scaling pipelines for event and tracking data, and turning operational data into reliable internal products. Owns cloud cost management, architecture, and delivery for production data systems supporting 23 teams.
 
 ## Core Skills
 - **Leadership:** Engineering strategy, technical roadmaps, stakeholder management, cross-functional delivery, cloud cost ownership, documentation, release governance
-- **Backend & Data:** Python, Django, Flask, PostgreSQL, ETL/ELT pipelines, data modeling, API integrations, web scraping, analytics platforms
+- **Backend & Data:** Python, Django, Flask, PostgreSQL, Snowflake, ETL/ELT pipelines, data modeling, API integrations, web scraping, analytics platforms
 - **Infrastructure:** AWS, GCP, Azure, Airflow, CI/CD, Jenkins, Heroku, monitoring, multi-environment deployments, Linux/Mac/Windows
 - **Product & Frontend:** Internal SaaS platforms, dashboards/reporting, JavaScript, HTML/CSS, sports analytics tooling, QA automation
 
@@ -17,13 +17,13 @@ Director of Engineering specializing in data platforms, analytics infrastructure
 ### Blue Crow Sports Group, Houston, TX
 **Director of Engineering | January 2026 - Present**
 - Promoted to Director of Engineering after building the centralized data platform powering analytics, reporting, and internal SaaS workflows across a 23-team multi-club organization.
-- Own data platform strategy, cloud cost management, technical roadmap, and architecture decisions for production analytics infrastructure and internal data products.
+- Own data platform strategy, Snowflake analytics architecture, cloud cost management, technical roadmap, and architecture decisions for production analytics infrastructure and internal data products.
 - Lead delivery of 50+ dashboards and reporting tools that convert sports science, scouting, recruitment, nutrition, player operations, and executive data into actionable workflows.
 - Set standards for data pipeline reliability, deployment workflows, documentation, monitoring, and maintainability across development, QA, staging, and production environments.
 - Partner with technical and non-technical stakeholders to model domain data, define data quality expectations, and prioritize platform capabilities.
 
 **Data Engineer / Lead Developer | January 2023 - December 2025**
-- Designed and built centralized infrastructure aggregating 10+ heterogeneous data sources, including APIs, unstructured datasets, manual uploads, and web scraping, into a unified analytics environment.
+- Designed and built Snowflake-backed centralized infrastructure aggregating 10+ heterogeneous data sources, including APIs, unstructured datasets, manual uploads, and web scraping, into a unified analytics environment.
 - Developed pipelines integrating datasets covering 200,000+ players, 100,000+ coaches, ~30 years of historical competition data, and ~300,000 matches annually.
 - Built systems capable of handling 1,500+ event data points per match and ~1M positional tracking data points per game for advanced performance analysis and research workflows.
 - Architected and developed a full-stack internal analytics platform used by staff across 23 teams for scouting, recruitment, sports science, and operational analysis.

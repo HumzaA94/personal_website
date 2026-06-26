@@ -1,5 +1,5 @@
 # Humza Ahmed
-(832) 986-3945 | humza1910@gmail.com | GitHub: hahmed0111
+(832) 986-3945 | humza1910@gmail.com | GitHub: Hahmed94 | Website: h-ahmed.onrender.com
 
 **Director of Engineering | Sports Technology, Football Intelligence & Analytics Platforms**
 
@@ -8,7 +8,7 @@ Director of Engineering with deep experience building football intelligence plat
 
 ## Core Skills
 - **Leadership:** Engineering strategy, technical roadmaps, stakeholder management, cross-functional delivery, cloud cost ownership, documentation, release governance
-- **Backend & Data:** Python, Django, Flask, PostgreSQL, ETL/ELT pipelines, data modeling, API integrations, web scraping, analytics platforms
+- **Backend & Data:** Python, Django, Flask, PostgreSQL, Snowflake, ETL/ELT pipelines, data modeling, API integrations, web scraping, analytics platforms
 - **Infrastructure:** AWS, GCP, Azure, Airflow, CI/CD, Jenkins, Heroku, monitoring, multi-environment deployments, Linux/Mac/Windows
 - **Product & Frontend:** Internal SaaS platforms, dashboards/reporting, JavaScript, HTML/CSS, sports analytics tooling, QA automation
 
@@ -17,14 +17,14 @@ Director of Engineering with deep experience building football intelligence plat
 ### Blue Crow Sports Group, Houston, TX
 **Director of Engineering | January 2026 - Present**
 - Promoted to Director of Engineering after architecting the organization's centralized data platform and internal football intelligence system across a 23-team multi-club environment.
-- Own engineering strategy, technical roadmap, architecture decisions, and platform delivery across football analytics, internal SaaS tooling, data infrastructure, and operational systems.
+- Own engineering strategy, technical roadmap, architecture decisions, and platform delivery across football analytics, Snowflake-backed data infrastructure, internal SaaS tooling, and operational systems.
 - Partner with football leadership and department heads to translate scouting, sports science, recruitment, nutrition, and player operations needs into scalable analytics products.
 - Lead delivery of 50+ dashboards and reporting tools used by technical staff, executives, and football operations stakeholders for decision-making across the organization.
 - Own cloud infrastructure strategy and cost management across production systems, balancing reliability, scalability, and spend for a growing multi-club operation.
 
 **Data Engineer / Lead Developer | January 2023 - December 2025**
 - Architected and developed a full-stack football intelligence platform used by staff across 23 teams to analyze sports science, scouting, recruitment, training performance, and operational data.
-- Built centralized data infrastructure aggregating 10+ heterogeneous sources, including APIs, unstructured datasets, manual uploads, and web scraping, into a unified analytics environment.
+- Built Snowflake-backed centralized data infrastructure aggregating 10+ heterogeneous sources, including APIs, unstructured datasets, manual uploads, and web scraping, into a unified analytics environment.
 - Developed pipelines covering 200,000+ players, 100,000+ coaches, ~30 years of competition history, and ~300,000 matches annually.
 - Built systems handling 1,500+ event data points per match and ~1M positional tracking data points per game to support advanced performance analysis and research workflows.
 - Led exploratory AI-driven football analytics initiatives, including computer vision approaches for automated match event extraction and cognitive performance analysis.
